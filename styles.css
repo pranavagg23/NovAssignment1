@@ -1,0 +1,25 @@
+#tableHeading {
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+.tablestyle {
+  background-color: lightblue;
+  color: white;
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+/* table td:nth-child(1){
+    
+} */
+
+/* tbody>tr>:nth-child(2){ 
+    text-align: center;
+    } */
+a, a:hover, a:active, a:visited { color: white; }
